@@ -1,2 +1,2 @@
 # Python
-Python basic practice using nano
+Python basic practice snippets and basic common python questions
